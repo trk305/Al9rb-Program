@@ -7,3 +7,5 @@ dotnet new gitignore
 *.cache
 9'arb Program (src)/.vs/9'arb Program (src)/v17/.suo
 9'arb Program (src)/bin
+*.json
+*.json
