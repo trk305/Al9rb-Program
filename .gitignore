@@ -1,2 +1,8 @@
 dotnet new gitignore
 *.vsidx
+9'arb Program (src)/.vs/9'arb Program (src)/v17/.suo
+9'arb Program (src)/.vs/9'arb Program (src)/v17/DocumentLayout.json
+9'arb Program (src)/obj/Release/DesignTimeResolveAssemblyReferences.cache
+*.json
+*.cache
+9'arb Program (src)/.vs/9'arb Program (src)/v17/.suo
